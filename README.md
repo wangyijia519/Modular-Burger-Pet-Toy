@@ -1,12 +1,23 @@
 # 🍔 Modular Burger Pet Toy — Real-Time WebGPU Multi-Material Soft-Body & Snuffle Simulator
 
-[![Live Interactive Demo](https://img.shields.io/badge/Live_WebGPU_Demo-Click_to_Launch-E65A41?style=for-the-badge)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)
+[![Live WebGPU Demo (GitHub Pages)](https://img.shields.io/badge/Live_WebGPU_Demo-GitHub_Pages-E65A41?style=for-the-badge)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)
+[![Instant HTML Preview](https://img.shields.io/badge/Instant_Preview-HTMLPreview-4A7C36?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/wangyijia519/Modular-Burger-Pet-Toy/blob/main/index.html)
 
-👉 **[Click Here to Launch the Live Interactive WebGPU Demo](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)**
-* **[Exploded Coaxial View (Default)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)**
-* **[Burger Snuffle Mode (All 5 Coaxial Layers Stacked)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=burger)**
-* **[Snuffle Treat Dislodge Demo (Treats Popping Out of Green Felt)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=burger&snuffle=1)**
-* **[Rolling Sphere Mode (Top & Bottom Shells Closed)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=sphere)**
+👉 **Click to Launch Live Interactive Experience:**
+* 🌐 **GitHub Pages Primary Link**: **[https://wangyijia519.github.io/Modular-Burger-Pet-Toy/](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)**
+  * **[Exploded Coaxial View (Default)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/)**
+  * **[Burger Snuffle Mode (All 5 Layers Stacked)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=burger)**
+  * **[Snuffle Treat Dislodge Demo (Treats Popping Out of Green Felt)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=burger&snuffle=1)**
+  * **[Rolling Sphere Mode (Top & Bottom Shells Closed)](https://wangyijia519.github.io/Modular-Burger-Pet-Toy/?mode=sphere)**
+* ⚡ **Zero-Config Backup Preview Link**: **[https://htmlpreview.github.io/?https://github.com/wangyijia519/Modular-Burger-Pet-Toy/blob/main/index.html](https://htmlpreview.github.io/?https://github.com/wangyijia519/Modular-Burger-Pet-Toy/blob/main/index.html)**
+
+---
+
+## 📸 Interactive Modes Preview
+
+| Exploded Coaxial Stack (`Ø110 mm`) | Burger Snuffle & Treat Foraging Mode | Rolling Sphere Mode (`1+5 Closed`) |
+| :---: | :---: | :---: |
+| ![Exploded View](assets/preview_exploded.png) | ![Burger Snuffle Mode](assets/preview_burger.png) | ![Rolling Sphere Mode](assets/preview_sphere.png) |
 
 ---
 
@@ -28,6 +39,6 @@
 
 ---
 
-## 🖥️ Requirements
+## 🖥️ Browser Requirements
 
 * **Browser**: Chrome 113+, Edge 113+, or Safari 18+ with **WebGPU** enabled.
